@@ -31,5 +31,7 @@ public class GradeHelper {
         }
         
         System.out.println("CAP for grade " + grade + " is " + cutoff);
+        
+        System.out.println("CAP for grade " + grade + " is " + cutoff);
     }
 }
